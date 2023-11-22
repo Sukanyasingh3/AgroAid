@@ -116,7 +116,8 @@ After training, the model achieves an accuracy of 98% on the train set and 96% o
 
 # Contributing
 
-<img src="https://github.com/Sukanyasingh3/Sukanyasingh3/blob/main/gif2.gif" />
+![gif3](https://github.com/Sukanyasingh3/Plant-disease-diagnosis/assets/113462236/26e2bb6c-6c59-45bd-8402-682806666fae)
+
 
 If you would like to contribute to the project, follow these steps:
 
