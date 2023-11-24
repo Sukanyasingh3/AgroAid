@@ -28,7 +28,7 @@ To use this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/Sukanyasingh3/plant-disease-diagnosis.git
+   git clone https://github.com/Sukanyasingh3/AgroAid.git
    ```
 2. Install the required dependencies:
   ```bash
@@ -39,7 +39,7 @@ To use this project, follow these steps:
 1. Navigate to the project directory:
 
 ```bash
-   cd plant-disease-diagnosis
+   cd AgroAid
    ```
 2. Install the required dependencies:
   ```bash
