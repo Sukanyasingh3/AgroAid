@@ -1,7 +1,12 @@
 <div align='center'>
 
 <h1>AgroAid: Plant disease diagnosis Using ResNet50</h1>
-<p>Multi class classifier made using transfer learning with pre-trained model ResNet50 , that detects 12 different diseases in plant leaves of three different plant types: Pepper, Potato, and Tomato</p>
+
+
+
+![Screenshot (180)](https://github.com/Sukanyasingh3/AgroAid/assets/113462236/f6c4d3f2-b974-4afd-9d2d-7d7f51dc049e)
+
+<h3>A multi class classifier made using transfer learning with pre-trained model ResNet50 , that detects 12 different diseases in plant leaves of three different plant types: Pepper, Potato, and Tomato</h3>
 
 </div>
 
